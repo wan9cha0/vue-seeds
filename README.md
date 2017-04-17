@@ -1,2 +1,2 @@
-# vue-seeds
+# vue-bang
 vue教程
