@@ -1,0 +1,15 @@
+button{
+  width: 100px;
+  height:30px;
+  border-radius: 4px;
+  border:1px solid #999;
+  background: transparent;
+  font-size: .5rem;
+  cursor: pointer;
+}
+.ico{
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+  margin-top: -2px;
+}
